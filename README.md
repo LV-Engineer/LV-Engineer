@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Viktor 👋
 
-<!--
-**LV-Engineer/LV-Engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist from Lviv, Ukraine. Former full-stack developer
+(React/Next.js, NestJS) moving into ML to apply my math background
+and build end-to-end solutions. Open to remote roles.
 
-Here are some ideas to get you started:
+## Stack
+Python · PyTorch · pandas · scikit-learn · SQL · FastAPI · Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- [Diabetes MLP Classification](https://github.com/LV-Engineer/Diabetes-MLP-Classification) — PyTorch MLP, 7 configurations compared
+- [Netflix EDA & Cleaning](https://github.com/LV-Engineer/EDA-and-Clean-the-Netflix-Dataset) — pandas cleaning without dropping rows
+- [Pokemon CNN Classification](https://github.com/LV-Engineer/Pokemon-Classification-CNN-and-Transfer-Learning) — CNN vs transfer learning
+- [HR AI Agent](https://github.com/LV-Engineer/HR-AI-Agent) — Claude + MCP + pgvector
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/viktor-luka-25b610364/) · [Telegram](https://t.me/luka_viktor) · viktor.luka.dev@gmail.com
