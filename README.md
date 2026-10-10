@@ -1,8 +1,4 @@
-# Hi, I'm Viktor 👋
-
-Data Scientist from Lviv, Ukraine. I started as a full-stack developer
-(React/Next.js, NestJS) and moved into data science to apply my math
-background and build end-to-end ML solutions. Open to remote roles.
+Developer transitioning into Data Science, with a web background (Shopify, React/Next.js, NestJS) and hands-on experience with AI solutions (Claude API, MCP, vector search). I moved from web development to data science to apply my mathematical training and build end-to-end ML solutions in Python (Pandas, PyTorch, scikit-learn, SQL). Team-oriented, I automate routine work and keep learning through university, courses and AI/data events. Looking for a Junior/Trainee Data Scientist role.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
