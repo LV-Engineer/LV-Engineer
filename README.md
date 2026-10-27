@@ -12,21 +12,26 @@ Developer transitioning into Data Science, with a web background (Shopify, React
 ## Featured projects
 
 **Machine learning**
-- [Diabetes MLP Classification](https://github.com/LV-Engineer/Diabetes-MLP-Classification) — PyTorch MLP on the Pima dataset; 7 configurations compared (Adam, L1, L2, SGD, RMSprop)
-- [Pokemon CNN Classification](https://github.com/LV-Engineer/Pokemon-Classification-CNN-and-Transfer-Learning) — custom CNN vs ResNet18 / MobileNetV2, feature extraction vs fine-tuning
+- [Churn-Prediction](https://github.com/LV-Engineer/Churn-Prediction) — IBM Telco churn (7,043 customers): logistic regression, Random Forest, XGBoost and a PyTorch MLP compared by 5-fold CV ROC-AUC; decision threshold chosen by business cost
+- [Demand Forecast](https://github.com/LV-Engineer/<repo-name>) — <one line: data, method, metric>
 
 **Data analysis**
 - [Netflix EDA & Cleaning](https://github.com/LV-Engineer/EDA-and-Clean-the-Netflix-Dataset) — column-by-column pandas cleaning without dropping rows
 
 **AI & backend**
+- [Churn-Model-Deployment](https://github.com/LV-Engineer/Churn-Model-Deployment) — churn model served with FastAPI and Docker Compose, tracked in MLflow, with Evidently drift checks and Prometheus/Grafana monitoring
 - [HR AI Agent](https://github.com/LV-Engineer/HR-AI-Agent) — Claude chat assistant with an MCP tool server, pgvector semantic search and PDF reports
-- [E-Commerce API](https://github.com/LV-Engineer/E-Commerce-API) — FastAPI, PostgreSQL, JWT auth, Stripe checkout, Docker, CI
 
-## What I work with
+## Skills
 
-- **Data & ML:** Python, pandas, Matplotlib, Seaborn, PyTorch
-- **Backend:** FastAPI, PostgreSQL, SQLAlchemy, Redis, Docker, GitHub Actions
-- **AI tooling:** Claude API, MCP, embeddings, pgvector
+- **Python & Data Analysis:** Python, NumPy, Pandas, Matplotlib, Seaborn
+- **BI & Spreadsheets:** Excel, Google Sheets, Power BI
+- **Machine Learning:** Scikit-Learn, XGBoost, Deep Learning (PyTorch), Transfer Learning, training models from scratch
+- **Deployment:** FastAPI, Pydantic, SQLAlchemy, SQL, PostgreSQL, Redis, Celery, pytest, mypy, DVC, Git, Docker, CI
+- **Monitoring:** Evidently, Grafana, MLflow
+- **Mathematics:** Linear Algebra & Calculus, Statistics & Probability, Hypothesis Testing, A/B Testing
+- **LLM & AI Agents:** Claude API, MCP, Claude Code, RAG
+- **Web Development:** Shopify (Liquid), Node.js, React.js, NestJS, TypeScript
 
 ## Contact
 
