@@ -24,8 +24,7 @@ Developer transitioning into Data Science, with a web background (Shopify, React
 
 ## Skills
 
-- **Python & Data Analysis:** Python, NumPy, Pandas, Matplotlib, Seaborn
-- **BI & Spreadsheets:** Excel, Google Sheets, Power BI
+- **Python & Data Analysis:** Python, NumPy, Pandas, Matplotlib, Seaborn, Power BI
 - **Machine Learning:** Scikit-Learn, XGBoost, Deep Learning (PyTorch), Transfer Learning, training models from scratch
 - **Deployment:** FastAPI, Pydantic, SQLAlchemy, SQL, PostgreSQL, Redis, Celery, pytest, mypy, DVC, Git, Docker, CI
 - **Monitoring:** Evidently, Grafana, MLflow
